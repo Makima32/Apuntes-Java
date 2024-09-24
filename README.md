@@ -9,7 +9,7 @@ Este repositorio contiene mis apuntes y ejercicios sobre conceptos clave de **Ja
 
 ## Contenido
 
-1. [Clases y Objetos](./Apuntes/Clases%20y%20Objetos.md))
+1. [Clases y Objetos](./Apuntes/Clases%20y%20Objetos.md)
    - Definición de clase
    - Instancia de una clase (Objeto)
    - Atributos y Métodos
@@ -17,11 +17,11 @@ Este repositorio contiene mis apuntes y ejercicios sobre conceptos clave de **Ja
    - Cómo crear un objeto
    - Asignación de atributos a un objeto
    - Llamada a métodos de un objeto
-2. [Atributos y Métodos](#atributos-y-métodos)
+2. [Atributos y Métodos](./Apuntes/Clases%20y%20Condicionales.md)
    - Atributos: definición y tipos
    - Métodos: con `return` y `void`
    - Parámetros en métodos
-3. [Encapsulamiento](#encapsulamiento)
+3. [Encapsulamiento](./Apuntes/Clases%20y%20Objetos.md)
    - Definición y propósito del encapsulamiento
    - Atributos privados y protección de datos
    - Getters y Setters: acceso y modificación controlada
@@ -32,7 +32,7 @@ Este repositorio contiene mis apuntes y ejercicios sobre conceptos clave de **Ja
    - Definición y uso de constructores en Java
    - Constructores con y sin parámetros
    - Inicialización de atributos con constructores
-5. [Condicionales](#condicionales)
+5. [Condicionales](./Apuntes/Clases%20y%20Condicionales.md)
    - Estructura básica (if-else)
    - Operadores de comparación (==, !=, >=, <=, <, >)
    - Uso de condicionales para validar información
