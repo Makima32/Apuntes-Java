@@ -2,6 +2,9 @@
 
 Este repositorio contiene mis apuntes y ejercicios sobre conceptos clave de **Java**, que estoy aprendiendo en el curso de Desarrollo de Aplicaciones Multiplataforma (DAM). Aquí encontrarás una guía completa de los temas que voy cubriendo, desde clases y objetos hasta condicionales y bucles.
 
+## GIF de Motivación 💪
+
+![GIF de motivación](https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif)
 ---
 
 ## Contenido
