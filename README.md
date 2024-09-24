@@ -6,7 +6,7 @@ Este repositorio contiene mis apuntes y ejercicios sobre conceptos clave de **Ja
 
 ## Contenido
 
-1. [Clases y Objetos](#clases-y-objetos)
+1. [Clases y Objetos](./Apuntes/Clases%20y%20Objetos.md))
    - Definición de clase
    - Instancia de una clase (Objeto)
    - Atributos y Métodos
