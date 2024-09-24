@@ -14,7 +14,7 @@ Este repositorio contiene mis apuntes y ejercicios sobre conceptos clave de **Ja
    - Instancia de una clase (Objeto)
    - Atributos y Métodos
    - Visibilidad (public, private, protected)
-   - Cómo crear un objeto
+   - [Cómo crear un objeto](./apuntes/Objetos.md)
    - Asignación de atributos a un objeto
    - Llamada a métodos de un objeto
 2. [Atributos y Métodos](./Apuntes/Metodo.md)
@@ -32,7 +32,7 @@ Este repositorio contiene mis apuntes y ejercicios sobre conceptos clave de **Ja
    - Definición y uso de constructores en Java
    - Constructores con y sin parámetros
    - Inicialización de atributos con constructores
-5. [Condicionales](./Apuntes/Clases%20y%20Condicionales.md)
+5. [Condicionales](./Apuntes/Condicionales.md)
    - Estructura básica (if-else)
    - Operadores de comparación (==, !=, >=, <=, <, >)
    - Uso de condicionales para validar información
