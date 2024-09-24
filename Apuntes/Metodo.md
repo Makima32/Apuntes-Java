@@ -1,7 +1,7 @@
-# **1. Métodos en Java**
+#  1. **Métodos en Java**
 
 
-## **Definición de metodos **
+## **Definición de metodos**
 Un **método** en Java es una función definida dentro de una clase que describe una acción que un objeto puede realizar. Los métodos pueden **devolver valores** (definidos con un tipo de retorno) o ser del tipo void, lo que significa que **no devuelven ningún valor.**
 
 ## **Sintaxis básica de un metodo**
