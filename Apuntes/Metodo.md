@@ -6,15 +6,15 @@ Un **método** en Java es una función definida dentro de una clase que describe
 
 ## **Sintaxis básica de un metodo**
 
-![Codigo](/Imagenes/metodos.png)
+![Codigo](/Apuntes/Imagenes/metodos.png)
 
 ## **Método con retorno**  
 
-![Codigo](/Imagenes/metodos.png)
+![Codigo](/Apuntes/Imagenes/metodoConRetorno.png)
 ## **Explicacion del codigo**
 
 Se devuelve el valor de la suma de a + b al metodo **sumar**, es decir si imprimimos el metodo sumar en main me dara el resultado de la suma
 ## **Método void (sin retorno)** 
 
 
-![Codigo](Imagenes/metodoSinRetorno.png)
+![Codigo](/Apuntes/Imagenes/metodoSinRetorno.png)

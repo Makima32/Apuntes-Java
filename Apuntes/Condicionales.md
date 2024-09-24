@@ -6,7 +6,7 @@ Los **condicionales** en Java se utilizan para tomar decisiones basadas en una c
 
 
 ## **Sintaxis básica de un condicional:**
-![Codigo](/Imagenes/condicional.png)
+![Codigo](/Apuntes/Imagenes/condicional.png)
 
 
 
