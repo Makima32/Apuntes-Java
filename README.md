@@ -146,9 +146,7 @@ Explicación sobre el uso del `return` en métodos para devolver valores y la di
 
 ---
 
-## GIF de Motivación 💪
 
-![GIF de motivación](https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif)
 
 ---
 
