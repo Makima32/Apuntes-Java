@@ -17,7 +17,7 @@ Este repositorio contiene mis apuntes y ejercicios sobre conceptos clave de **Ja
    - Cómo crear un objeto
    - Asignación de atributos a un objeto
    - Llamada a métodos de un objeto
-2. [Atributos y Métodos](./Apuntes/Clases%20y%20Condicionales.md)
+2. [Atributos y Métodos](./Apuntes/Metodo.md)
    - Atributos: definición y tipos
    - Métodos: con `return` y `void`
    - Parámetros en métodos
