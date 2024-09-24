@@ -18,7 +18,7 @@ Cuando declaramos un atributo como privado (private), este no puede ser accedido
 
 ## **Sintaxis básica:**
 
-![Codigo](/Imagenes/)
+![Codigo](/Apuntes/Imagenes/Encapsulamiento1.png)
 
 
 ## **Explicacion del codigo**
@@ -37,7 +37,7 @@ Setters: Modifican el valor de un atributo, permitiendo validaciones antes de as
 
 ## **Sintaxis básica:**
 
-![Codigo](/Imagenes/?.png)
+![Codigo](/Apuntes/Imagenes/Encapsulamienta2.png)
 
 
 ## **Explicacion del codigo**
@@ -57,11 +57,14 @@ A continuación, un ejemplo completo de encapsulamiento en una clase que incluye
 
 ## **Sintaxis básica:**
 
-![Codigo](/Imagenes/?.png)
+![Codigo](/Apuntes/Imagenes/Encapsulamiento3.png)
+
 
 
 * Los atributos titular y saldo son privados, lo que protege los datos de accesos externos.
+
 * El método depositar() aumenta el saldo si la cantidad es positiva, y el método retirar() verifica si la cantidad a retirar es válida y si hay suficiente saldo.
+
 * Las validaciones garantizan que no se puedan realizar operaciones incorrectas.
 
 
