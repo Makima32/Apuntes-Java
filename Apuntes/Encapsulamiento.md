@@ -51,9 +51,7 @@ En los setters, podemos agregar validaciones para asegurarnos de que los datos i
 En el ejemplo anterior, se valida que la edad no sea negativa antes de modificar el atributo edad. Si el valor no es válido, simplemente no se modifica el atributo y se muestra un mensaje de error.
 
 
-## **Ejemplo de encapsulamiento en una clase**
 
-A continuación, un ejemplo completo de encapsulamiento en una clase que incluye atributos privados, getters, setters, y validaciones:
 
 ## **Sintaxis básica:**
 

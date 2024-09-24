@@ -17,7 +17,7 @@ Este repositorio contiene mis apuntes y ejercicios sobre conceptos clave de **Ja
    - Cómo crear un objeto
    - Asignación de atributos a un objeto
    - Llamada a métodos de un objeto
-2. [Encapsulamiento](./Apuntes/Clases%20y%20Objetos.md)
+2. [Encapsulamiento](/Apuntes/Encapsulamiento.md)
    - Definición y propósito del encapsulamiento
    - Atributos privados y protección de datos
    - Getters y Setters: acceso y modificación controlada
