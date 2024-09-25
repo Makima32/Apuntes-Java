@@ -1,4 +1,4 @@
-<link rel="icon" type="image/png" href="/Apuntes/favicon-32x32.png">
+<link rel="icon" type="image/png" href="https://makima32.github.io/Apuntes-Java/Apuntes/favicon-32x32.png">
 
 # 📚 Apuntes de Java
 
