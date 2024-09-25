@@ -24,3 +24,5 @@ Recibe valores para inicializar los atributos cuando se crea el objeto.
 
 ## **Inicializacion de atributos con constructores**
 Los constructores permiten inicializar los atributos del objeto con valores específicos al momento de la creación del objeto. Esto te asegura que cada objeto se crea con valores adecuados.
+
+![Codigo](/Apuntes/Imagenes/InicializacionDeatributosConConstructores.png)

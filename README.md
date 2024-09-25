@@ -23,7 +23,7 @@ Este repositorio contiene mis apuntes y ejercicios sobre conceptos clave de **Ja
    - Getters y Setters: acceso y modificación controlada
    - Validación de datos con setters (control de valores)
    - Ejemplo de encapsulamiento en una clase
-3. [Constructores](#constructores)
+3. [Constructores](/Apuntes/Constructor.md)
    - Qué es un constructor
    - Definición y uso de constructores en Java
    - Constructores con y sin parámetros
