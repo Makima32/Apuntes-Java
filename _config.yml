@@ -1,8 +1,0 @@
-theme: jekyll-theme-slate
-favicon: "/Apuntes/favicon-32x32.png"
-title: "Mi Sitio de Apuntes Java"
-description: "Sitio web para mis apuntes de Java"
-baseurl: "" # Déjalo vacío si el sitio está en la raíz
-url: "https://makima32.github.io/Apuntes-Java"
-markdown: kramdown
-theme: jekyll-theme-slate
