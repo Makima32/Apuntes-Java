@@ -1,2 +1,6 @@
 theme: jekyll-theme-slate
+title: "Mi Sitio de Apuntes Java"
+description: "Sitio web para mis apuntes de Java"
+url: "https://makima32.github.io/Apuntes-Java/"
+baseurl: "" # Déjalo vacío si está en la raíz
 
