@@ -5,11 +5,75 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }} | {{ site.title }}</title>
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    header {
+      background-color: #2c3e50;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+      box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    header h1 {
+      font-size: 2.5rem;
+      display: inline-block;
+      margin: 0;
+    }
+    header img {
+      vertical-align: middle;
+      margin-left: 10px;
+    }
+    nav ul {
+      list-style: none;
+      padding: 0;
+      margin: 1rem 0 0;
+    }
+    nav ul li {
+      display: inline-block;
+      margin-right: 1.5rem;
+    }
+    nav ul li a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      padding: 0.5rem 1rem;
+      background-color: #34495e;
+      border-radius: 5px;
+      transition: background-color 0.3s ease;
+    }
+    nav ul li a:hover {
+      background-color: #1abc9c;
+    }
+    main {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 2rem;
+      background-color: white;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
+      border-radius: 8px;
+    }
+    footer {
+      background-color: #2c3e50;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+      box-shadow: 0px -4px 6px rgba(0, 0, 0, 0.1);
+    }
+    footer p {
+      margin: 0;
+    }
+  </style>
 </head>
 <body>
   <header>
     <h1>{{ site.title }}
-      <img src="/assets/images/tu-gif.gif" alt="GIF animado" width="50" height="50">
+      <img src="/assets/images/tu-gif.gif" alt="GIF" width="50" height="50">
     </h1>
     <nav>
       <ul>
@@ -29,4 +93,3 @@
   </footer>
 </body>
 </html>
-
