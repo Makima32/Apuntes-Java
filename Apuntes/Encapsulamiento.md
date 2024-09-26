@@ -18,7 +18,7 @@ Cuando declaramos un atributo como privado (private), este no puede ser accedido
 
 ## **Sintaxis básica:**
 
-![Codigo](/Apuntes/Imagenes/Encapsulamiento1.png)
+![Codigo](Imagenes/Encapsulamiento1.png)
 
 
 ## **Explicacion del codigo**
@@ -37,7 +37,7 @@ Setters: Modifican el valor de un atributo, permitiendo validaciones antes de as
 
 ## **Sintaxis básica:**
 
-![Codigo](/Apuntes/Imagenes/Encapsulamienta2.png)
+![Codigo](Imagenes/Encapsulamienta2.png)
 
 
 ## **Explicacion del codigo**
@@ -55,7 +55,7 @@ En el ejemplo anterior, se valida que la edad no sea negativa antes de modificar
 
 ## **Sintaxis básica:**
 
-![Codigo](/Apuntes/Imagenes/Encapsulamiento3.png)
+![Codigo](Imagenes/Encapsulamiento3.png)
 
 
 
