@@ -1,4 +1,4 @@
-# **1. Definición y propósito del encapsulamiento **
+# **1. Definición y propósito del encapsulamiento**
 
 ## **Definición y propósito del encapsulamiento**
 
